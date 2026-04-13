@@ -1,9 +1,9 @@
 [PROJECT_INFO]
-GUID={EFFC69D5-7CE6-4BCC-B85C-E180DFA1C5FF}
+GUID={29ED1000-1DCB-49CC-A819-3804A1BB4AC3}
 ProjectName=Rubber_Version_1_00
-ProjectPath=C:\Users\admin\Desktop\hmi\Rubber_Version_1_00.TDS
-GUIDFilePath=C:\Users\admin\Desktop\hmi\~$Rubber_Version_1_00.hgid
-BackupPath=C:\Users\admin\AppData\Roaming\TOP Design Studio\{EFFC69D5-7CE6-4BCC-B85C-E180DFA1C5FF}\
+ProjectPath=D:\HMI\rubber_hmi\Rubber_Version_1_00.TDS
+GUIDFilePath=D:\HMI\rubber_hmi\~$Rubber_Version_1_00.hgid
+BackupPath=C:\Users\MCNEX\AppData\Roaming\TOP Design Studio\{29ED1000-1DCB-49CC-A819-3804A1BB4AC3}\
 LoadComplete=1
 LastProjectSaveTime=
-LastAutoBackupTime=20260321095559
+LastAutoBackupTime=20260413150317
